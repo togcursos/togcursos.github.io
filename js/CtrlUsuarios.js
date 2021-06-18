@@ -120,7 +120,7 @@ async function buscaRoles(ids) {
       html += 
         `<em>${cod(doc.id)}</em>
         <br>
-        ${cod(data.descripcion)}
+        ${cod(data.descripción)}
         <br>`;
     }
     return html;

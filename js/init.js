@@ -1,9 +1,9 @@
 firebase.initializeApp({
-    apiKey: "AIzaSyArRJTU1vCECFwctPwcXWqf0Yl2yrSUXEs",
-    authDomain: "cursostogc.firebaseapp.com",
-    projectId: "cursostogc",
-    storageBucket: "cursostogc.appspot.com",
-    messagingSenderId: "640671366700",
-    appId: "1:640671366700:web:d6e250203259f707379b89",
-    measurementId: "G-9GV935VLSR"
+    apiKey: "AIzaSyBay7Xwaqy1cta-lihsSRmIRhM1BSiTmIw",
+    authDomain: "togcursos04.firebaseapp.com",
+    projectId: "togcursos04",
+    storageBucket: "togcursos04.appspot.com",
+    messagingSenderId: "176719754779",
+    appId: "1:176719754779:web:0866404d294ef7bdfa6abe",
+    measurementId: "G-CEWP5SHTHT"
 });
